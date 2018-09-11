@@ -74,7 +74,8 @@ function plot3Dmesh(data, colorCode) {
        aspectratio:{
          x:1,
          y:1,
-         z:1
+         z:0.5
+         //z:1
        },
        xaxis: {
         autorange: true
